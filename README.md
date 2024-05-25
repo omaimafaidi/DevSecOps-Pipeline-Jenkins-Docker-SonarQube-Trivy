@@ -1,5 +1,4 @@
-# DevSecOps-Pipeline-Jenkins-SonarQube-Trivy-Command
-#Mise à jour des listes de paquets
+# Mise à jour des listes de paquets
 sudo apt update -y
 # Téléchargement de la clé GPG du dépôt Adoptium
 wget -qO - https://packages.adoptium.net/artifactory/api/gpg/key/public | sudo apt-key add –
